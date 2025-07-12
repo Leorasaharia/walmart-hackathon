@@ -66,7 +66,6 @@ streamlit run streamlit_app.py
 ### Frontend (React + TypeScript)
 
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
@@ -151,6 +150,12 @@ pythonVersion = "3.10"
 Bring the future of autonomous inventory optimization to life—today.
 
 ---
+## Authors
+
+Leora Saharia
+Adya Singh
+Swara Mandale
+Veerta Srivastava
 
 ## 📝 License
 
