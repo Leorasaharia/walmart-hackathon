@@ -155,7 +155,7 @@ Bring the future of autonomous inventory optimization to life—today.
 Leora Saharia
 Adya Singh
 Swara Mandale
-Veerta Srivastava
+Veerta Shrivastava
 
 ## 📝 License
 
